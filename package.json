@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/mkim5/ledger-sms.git",
   "author": "Matthew Kim <matthewkim93@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "ledger-cli": "^0.2.0"
+  }
 }
