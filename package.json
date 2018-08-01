@@ -1,0 +1,8 @@
+{
+  "name": "ledger-sms",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mkim5/ledger-sms.git",
+  "author": "Matthew Kim <matthewkim93@gmail.com>",
+  "license": "MIT"
+}
